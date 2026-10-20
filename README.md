@@ -2,6 +2,13 @@
 
 A Python-based agentic AI project that uses OpenAI models to generate, evaluate and refine data visualisations through the **Reflection design pattern**.
 
+## Architecture
+
+The architecture illustrates the Reflection design pattern:
+Generate → Execute → Reflect → Refine.
+
+![Reflective AI Chart Generator Architecture](images/reflective_chart_workflow.png)
+
 ## Overview
 
 The project demonstrates how feedback from a vision-capable LLM can improve AI-generated visualisations.
